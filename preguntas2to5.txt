@@ -1,0 +1,11 @@
+Script started on Sun Aug 26 01:43:44 2018
+
+[?1034hbash-3.2$ touch hola_mundo.txt
+bash-3.2$ mk di[K[K[Kdir ingenieria
+bash-3.2$ mkdir ingenieria[Klaboratorio
+bash-3.2$ mv hola_mundo.txt ingenieria
+bash-3.2$ cp /etc/passwd laboratorio
+bash-3.2$ exit
+exit
+
+Script done on Sun Aug 26 01:56:42 2018
