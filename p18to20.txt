@@ -1,0 +1,22 @@
+Script started on Mon Aug 27 00:38:50 2018
+[?1034hbash-3.2$ mkdir trabajo_personal
+bash-3.2$ cd trabajo_personal
+bash-3.2$ mkdir muscia[K[K[Kica imagenes video presentaciones
+bash-3.2$ ls trabajo_personal
+ls: trabajo_personal: No such file or directory
+bash-3.2$ cd trabajo_personal
+bash: cd: trabajo_personal: No such file or directory
+bash-3.2$ pwd
+/Users/alejandromorales/desktop/trabajo_personal
+bash-3.2$ ls
+imagenes	musica		presentaciones	video
+bash-3.2$ cd /Users/alejandromorales/desktop/trabajo_personal/imagenes
+bash-3.2$ pwd
+/Users/alejandromorales/desktop/trabajo_personal/imagenes
+bash-3.2$ mkdir personales otras
+bash-3.2$ ls
+otras		personales
+bash-3.2$ exit
+exit
+
+Script done on Mon Aug 27 00:41:53 2018
