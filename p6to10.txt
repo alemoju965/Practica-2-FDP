@@ -1,0 +1,116 @@
+Script started on Sun Aug 26 21:25:23 2018
+[?1034hbash-3.2$ cd
+bash-3.2$ pwd
+/Users/alejandromorales
+bash-3.2$ ls ../../etc
+afpovertcp.cfg
+aliases
+aliases.db
+apache2
+asl
+asl.conf
+auto_home
+auto_master
+autofs.conf
+bashrc
+bashrc_Apple_Terminal
+com.apple.screensharing.agent.launchd
+csh.cshrc
+csh.login
+csh.logout
+cups
+defaults
+dnsextd.conf
+emond.d
+find.codes
+fstab.hd
+ftpusers
+gettytab
+group
+hosts
+hosts.equiv
+irbrc
+kern_loader.conf
+krb5.keytab
+localtime
+locate.rc
+mach_init.d
+mach_init_per_login_session.d
+mach_init_per_user.d
+mail.rc
+man.conf
+manpaths
+manpaths.d
+master.passwd
+nanorc
+networks
+newsyslog.conf
+newsyslog.d
+nfs.conf
+notify.conf
+ntp-restrict.conf
+ntp.conf
+ntp_opendirectory.conf
+openldap
+pam.d
+passwd
+paths
+paths.d
+periodic
+pf.anchors
+pf.conf
+pf.os
+php-fpm.conf.default
+php-fpm.d
+php.ini.default
+postfix
+ppp
+profile
+protocols
+racoon
+rc.common
+rc.netboot
+resolv.conf
+rmtab
+rpc
+rtadvd.conf
+security
+services
+shells
+snmp
+ssh
+ssl
+sudo_lecture
+sudoers
+sudoers.d
+syslog.conf
+ttys
+wfs
+xtab
+zprofile
+zshrc
+bash-3.2$ ls -latr ../../etc
+lrwxr-xr-x@ 1 root  wheel  11 Oct  3  2017 ../../etc -> private/etc
+bash-3.2$ pwd
+/Users/alejandromorales
+bash-3.2$ pwd[Kpwdls -latr ../../etc[C[C[C[C[C[C[C[C[C[Cpwd[Kls -latr ../../etc[C[C[C[C[C[C[C[C[C[Cpwd[K[Kpwd[Kcd ../pwd
+bash: cd: ../pwd: No such file or directory
+bash-3.2$ pwd
+/Users/alejandromorales
+bash-3.2$ find ../../etc
+../../etc
+bash-3.2$ find . -nam,e[K[Ke hola_mundo.txt
+./Desktop/ingenieria/hola_mundo.txt
+bash-3.2$ pwd
+/Users/alejandromorales
+bash-3.2$ cd /etc
+bash-3.2$ ç[Kpwd
+/etc
+bash-3.2$ find ()[K[K/etc -not -name ""[C*"."c"o"n"f"[C
+/etc
+bash-3.2$ pwd
+/etc
+bash-3.2$ exit
+exit
+
+Script done on Sun Aug 26 23:27:12 2018
